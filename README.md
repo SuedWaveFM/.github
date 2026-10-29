@@ -2,7 +2,7 @@
 
 <img src="https://suedwave.com/image/logos/suedwave.png" alt="SüdWaveFM Logo" width="220" />
 
-# SüdWaveFM
+# SüdWaveFM 
 
 **Dein Sound. Deine Welle. Dein Süden.**
 
